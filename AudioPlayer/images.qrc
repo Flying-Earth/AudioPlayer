@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/color.png</file>
+        <file>image/cycle.png</file>
+        <file>image/logo.png</file>
+        <file>image/music.png</file>
+        <file>image/next.png</file>
+        <file>image/pause.png</file>
+        <file>image/play.png</file>
+        <file>image/previous.png</file>
+        <file>image/random.png</file>
+        <file>image/silent.png</file>
+        <file>image/single.png</file>
+        <file>image/tc.png</file>
+        <file>image/volume.png</file>
+        <file>image/cemera.png</file>
+        <file>image/video.png</file>
+    </qresource>
+</RCC>
