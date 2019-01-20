@@ -6,7 +6,7 @@
 
 2. 多媒体列表的基本播放功能及播放模式选择功能。
 
-3. 通过 QSql 存储分别存储音频及视频列表。
+3. 通过 QSql 分别存储音频及视频列表。
 
 ## 整体设计
 ![整体设计](https://img-blog.csdnimg.cn/20190119195142969.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L21veXVjaGFvc2hlbmc=,size_16,color_FFFFFF,t_70)
